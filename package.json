@@ -1,0 +1,15 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "otra aplicacion de consola hecha en node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plinio Diamantino",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "yargs": "^11.0.0"
+  }
+}
